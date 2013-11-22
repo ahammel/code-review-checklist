@@ -9,7 +9,7 @@ review. The goal is to provide a consistent set of code review practices while
 allowing individual groups the freedom to take whichever approach they feel is
 best suited to the task.
 
-Groups---or even individual developers---who use this guide may find it useful
+Groups—or even individual developers—who use this guide may find it useful
 to fork this repository and make modifications and specific recommendations to
 suit their needs and preferences.
 
@@ -35,7 +35,7 @@ Remember, the purposes of a code review are:
    author.
 
 The checklist was originally developped for use in the Assembly Pipeline
-Analysis working group at the [Genome Sciences Centre][www.bcgsc.ca].
+Analysis working group at the [Genome Sciences Centre](www.bcgsc.ca).
 
 ## Table of Contents
 
