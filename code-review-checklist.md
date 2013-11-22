@@ -35,7 +35,7 @@ Remember, the purposes of a code review are:
    author.
 
 The checklist was originally developped for use in the Assembly Pipeline
-Analysis working group at the [Genome Sciences Centre](www.bcgsc.ca).
+Analysis working group at the [Genome Sciences Centre](http://www.bcgsc.ca).
 
 ## Table of Contents
 
