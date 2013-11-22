@@ -34,9 +34,6 @@ Remember, the purposes of a code review are:
 3. To improve the knowledge and skill of *the reviewer*, as well as the
    author.
 
-The checklist was originally developped for use in the Assembly Pipeline
-Analysis working group at the [Genome Sciences Centre](http://www.bcgsc.ca).
-
 ## Table of Contents
 
 * Code Review Best Practice
