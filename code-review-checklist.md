@@ -171,4 +171,4 @@ reviewer should ask him or herself about the code under review.
 
 
 [QMS_info]: http://gin.bcgsc.ca/plone/groups/quality/bioinformatics-quality-assurance/documents
-[Whitepaper]: http://gin.bcgsc.ca/jira/secure/attachment/32569/WP-CC-11-Best-Practices-of-Peer-Code-Review.pdf
+[Whitepaper]: https://support.smartbear.com/support/media/resources/cc/11_Best_Practices_for_Peer_Code_Review.pdf
